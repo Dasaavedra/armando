@@ -1,0 +1,67 @@
+
+
+```{css, echo=FALSE}
+.fluid.row.title{
+  font-size: 3.9vw
+}
+h1{
+  font-size:2.9vw;
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-weight: bold;
+  border-bottom: solid 1px black;
+}
+h2.title{
+color: navy;
+}
+
+h2{
+  color:#ff0000;
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-size: 22px;
+  font-weight: bold
+}
+p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  
+}
+  
+  
+  
+/* links */
+a { 
+  color: #50a0b0 ;
+}
+
+a:hover {
+ color: #27445C ; /* darker color when hovering */
+}
+
+```
+
+
+
+# Projects
+
+Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
+here's some examples. 
+
+## [Spatial Data Analysis](https://dasaavedra.github.io/mapvisualization/)
+
+- An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
+- Includes a github repo for access to all the code.
+
+
+## [Breast Cancer Clasification Model with R](https://dasaavedra.github.io/Project2/)
+
+- This project is aimed to apply a logistic regression model to predict the diagnostic 
+- I can code!

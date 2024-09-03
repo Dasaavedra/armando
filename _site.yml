@@ -1,0 +1,23 @@
+name: "Armando Saavedra"
+output_dir: "."
+navbar:
+  title: "Armando Saavedra"
+  left:
+    - text: "Main"
+      href: index.html
+    - text: "Portfolio"   ##### the new
+      href: Project.html  ##### stuff
+    - text: "Resume"
+      href: ResumeArmando.pdf
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:dsaavedra1012@gmail.com 
+    - icon: fa-github fa-lg
+      href: https://github.com/dasaavedra/
+    - icon: fa-linkedin fa-lg
+      href: https://linkedin.com/in/armando-saavedra
+output:
+  html_document:
+    theme: cosmo
+   

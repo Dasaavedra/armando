@@ -1,0 +1,78 @@
+
+```{css, echo=FALSE}
+.fluid.row.title{
+  font-size: 3.9vw
+}
+h1{
+  font-size:2.9vw;
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-weight: bold;
+  border-bottom: solid 1px black;
+}
+
+h2{
+  margin-top: 30px!important;
+  margin-bottom: 15px!important;
+  padding-top: 0px!important;
+  padding-bottom: 0px!important;
+  font-size: 22px;
+  font-weight: bold
+}
+p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  
+}
+  
+
+```
+
+
+# Biography
+
+
+<div class = "row">
+  
+<div class = "col-lg-3">
+<img src="Portrait.png" width="270px">
+<p align="center">
+  Master in Science
+  <br>
+  Information Science
+  <br>
+  University of Arizona
+  <br>
+  <br>
+</p>
+
+</div>
+  
+  
+<div class = "col-lg-9">
+<br><br> Hi, my name is Armando Saavedra a Data Scientist and Economist. I hold a Master's degree in Information Science (University of Arizona) and a Bachellor's degree in Economics (Catholic University of Colombia).
+
+I regard a fan of the multiple applications of mathematical models and statistics in science and business. For this reason, I choose to focus my knowledge on knowning diferent methods to gain insights from large quantities of information. 
+
+I have experince working with 
+
+
+Working on my Bachellor's degree I foused on the different tools that provided the econometric analysis. Here, I got a solid foundation of the ordinary least square regression model with the different assumtion's assessment and also the implementation panel data. As graduation's disertationa and intership I implemented  differnt time series models including univariate (ARMA, ARIMA, SARIMA) and multivariate models (VAR).
+
+On my Master's degree in the University of Arizona, I went further studying different machine learning algorithms such as logistic regression, k-nearest neighbors, neural nets, naive bayes clasifier and random forest. Everything with the help of Python/R and SQL. As graduaion project, I used two supervised learning models (multinomial logistic regression and a neural network) to predict how effective a government office in Bogota, Colombia, handle complains.   
+
+</div>
+
+</div>
+
+
+
+
+
+
+
