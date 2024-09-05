@@ -7,3 +7,4 @@ setwd("C:/Users/dsaav/Documents/Projects/R/Portfolio/Main/armando")
 #render your sweet site. 
 rmarkdown::render_site()
 
+

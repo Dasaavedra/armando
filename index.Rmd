@@ -34,7 +34,7 @@ p{
 ```
 
 
-# Biography
+# Data Analyst
 
 
 <div class = "row">
@@ -55,16 +55,50 @@ p{
   
   
 <div class = "col-lg-9">
-<br><br> Hi, my name is Armando Saavedra a Data Scientist and Economist. I hold a Master's degree in Information Science (University of Arizona) and a Bachellor's degree in Economics (Catholic University of Colombia).
+<br><br> 
 
-I regard a fan of the multiple applications of mathematical models and statistics in science and business. For this reason, I choose to focus my knowledge on knowning diferent methods to gain insights from large quantities of information. 
-
-I have experince working with 
+<strong>About Me</strong>
 
 
-Working on my Bachellor's degree I foused on the different tools that provided the econometric analysis. Here, I got a solid foundation of the ordinary least square regression model with the different assumtion's assessment and also the implementation panel data. As graduation's disertationa and intership I implemented  differnt time series models including univariate (ARMA, ARIMA, SARIMA) and multivariate models (VAR).
+Hi, I'm Armando Saavedra, a passionate Data Analyst with over five years of experience in turning raw data into actionable insights. Currently, I work as a Health Science Specialist (Data Analyst) at the Veterans Health Administration, where I leverage data to drive better healthcare outcomes.
 
-On my Master's degree in the University of Arizona, I went further studying different machine learning algorithms such as logistic regression, k-nearest neighbors, neural nets, naive bayes clasifier and random forest. Everything with the help of Python/R and SQL. As graduaion project, I used two supervised learning models (multinomial logistic regression and a neural network) to predict how effective a government office in Bogota, Colombia, handle complains.   
+<strong>Professional Background </strong>
+
+My journey in data analysis began with a solid foundation in economics and statistics through my bachelor's degree in economics. I further honed my skills with hands-on experience in the agricultural sector, working at the Colombian Federation of Cattle Ranchers (FEDEGAN). There, I applied time series models such as ARIMA (Autoregressive Integrated Moving Average) and VAR (Vector Autoregression) to forecast male cattle premium prices.
+
+After completing my master’s in Information Science, I worked as a data analyst at Pima Community College. This role deepened my expertise in extracting data from various sources using SQL, visualizing data through Power BI, and designing machine learning models—such as neural networks, random forests, and generalized linear models—to track and predict key academic performance indicators.
+
+For the past two years, I have transitioned to the healthcare sector, where I have had the privilege of working on a wide range of projects. These include extracting medical data for research initiatives and developing statistical models to estimate survival curves and analyze drug interactions.
+
+
+<strong>Skills and Expertise  </strong>
+
+<ul>
+    <li> <strong>Technical Skills:</strong> SQL, Python, R, Power BI,             Machine Learning, Data Visualization, Predictive Modeling, Statistical Analysis. </li>
+    <li> <strong>Soft Skills:</strong> Problem-solving, Communication, Team                      Collaboration, Critical Thinking.</li>
+    <li> <strong>Industry Expertise:</strong> Agricultural, Education,          Healthcare</li>
+</ul>
+
+
+
+<strong>Personal Background and Interests </strong>
+
+Originally from Bogotá, Colombia, I moved to Arizona ten years ago, which resulted in a brief career pause. After the COVID pandemic, I relocated to North Carolina. Outside of work, I am passionate about continuous learning, whether it's through online courses on the latest data tools or staying up to date with advancements in healthcare analytics. I'm also an avid runner and love exploring new trails on the weekends.
+
+<strong>Professional Philosophy </strong>
+
+I believe that data is more than just numbers. it’s a powerful tool that, when used ethically and effectively, can solve real-world problems. I’m committed to staying at the forefront of the data analysis field, continuously updating my skills, and applying them to create meaningful change.
+
+
+
+
+
+
+
+
+
+
+  
 
 </div>
 
