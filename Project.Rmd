@@ -65,3 +65,8 @@ here's some examples.
 
 - This project is aimed to apply a logistic regression model to predict the diagnostic 
 - I can code!
+
+## [SQL Server Exercises ](https://dasaavedra.github.io/Project-5/)
+- This is a sample of the applications of SQL coding. Here I stablished a connection with RStudio and played with data previously store in SQL Server.
+
+
